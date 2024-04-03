@@ -1,4 +1,8 @@
-numpy
-scikit-learn
 matplotlib
+numpy
 pandas
+scikit-learn
+
+# Text Stemming
+nltk
+Sastrawi # Bahasa Indonesia
