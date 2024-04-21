@@ -1,6 +1,7 @@
 matplotlib
 numpy
 pandas
+seaborn
 scikit-learn
 
 # Text Stemming
